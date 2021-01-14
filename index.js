@@ -4,6 +4,3 @@
   newHeader.id = "victory";
   newHeader.innerHTML = "Your name is the champion!";
   document.body.appendChild(newHeader);
-}
-
-run()
