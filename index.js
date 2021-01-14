@@ -2,4 +2,4 @@
 
 main.remove()
 document.body.appendChild('header')
-let newHeader = document.createElement('h1#victory')
+let header = document.createElement('h1#victory')
